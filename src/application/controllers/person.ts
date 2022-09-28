@@ -1,2 +1,2 @@
-import "../config/module-alias";
-///import {PersonController} from "@/application/controllers";
+// import "../config/module-alias";
+/// import {PersonController} from "@/application/controllers";
